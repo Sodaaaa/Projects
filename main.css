@@ -1,0 +1,52 @@
+.jumbotron {
+	background-image: url('http://img.epochtimes.com/i6/1509140546421487.jpg');
+    height:533px; 
+	background-repeat: repeat-x;
+	background-position: center; 
+}
+
+.jumbotron h1 {
+    font-size: 80px;
+    color: #33334c;
+}
+
+.learn-more {
+	background-color: #d1e0e0;
+	background-image: url('http://img3.douban.com/img/songlist/large/302298-1.jpg');
+	background-position: 60% 50%;
+	background-repeat:no-repeat;
+	background-size: auto;
+}
+
+.learn-more h2 {
+	font: Arial;
+	font-weight: bold;
+	color: #000033;
+	padding-left: 40px; 
+}
+
+.learn-more p {
+	font: Arial;
+	font-size: 25px;
+	padding-top: 30px;
+	padding-left: 80px;
+}
+
+.learn-more a {
+	font-size: 25px;
+	font-style: italic;
+	color: #00cc00;
+}
+
+.content a {
+	font: Arial;
+	font-size: 25px;
+	color: white;
+}
+
+.body {
+	background-image: url('http://img1.yytcdn.com/uploads/http://img1.yytcdn.com/uploads/uF60ed0tC4.jpg?size=220x220');
+	background-attachment: fixed;
+	background-size: auto;
+	background-repeat: repeat;
+}
